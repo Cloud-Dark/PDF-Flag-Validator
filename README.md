@@ -13,7 +13,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone [https://github.com/Cloud-Dark/PDF-Flag-Validator.git](https://github.com/Cloud-Dark/PDF-Flag-Validator/)
+    git clone https://github.com/Cloud-Dark/PDF-Flag-Validator.git
     ```
 2. Navigate to the project directory:
     ```bash
