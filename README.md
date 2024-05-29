@@ -1,5 +1,3 @@
----
-
 # PDF-Flag-Validator
 
 **PDF-Flag-Validator** is a simple yet effective tool for adding a custom flag to a PDF file and validating the file's integrity based on the presence of that flag. By utilizing the `fs` module in Node.js, this tool helps ensure the integrity of your PDF files with ease.
